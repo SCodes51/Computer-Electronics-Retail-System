@@ -1,0 +1,21 @@
+  Computer Electronics Retail System
+
+ Bill Number   : 623296
+ Customer Name : abcxyz
+ Phone Number  : 7891234560
+======================================
+ PRODUCTS		QTY		PRICE
+======================================
+ Monitor		2		6000
+ RAM		1		2500
+ Laptop Chargers		1		500
+ Keyboard / Mouse		1		300
+ Cables		3		360
+ Routers		1		1500
+--------------------------------------
+ Computer Parts Tax			   Rs. 93.0
+ Periherals Tax			   Rs. 37.2
+
+--------------------------------------
+ TOTAL BILL w/ Taxes : 		  Rs. 11290.2
+--------------------------------------

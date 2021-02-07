@@ -1,0 +1,28 @@
+  Computer Electronics Retail System
+
+ Bill Number   : 271437
+ Customer Name : Bilbo
+ Phone Number  : 8897654321
+======================================
+ PRODUCTS		QTY		PRICE
+======================================
+ Monitor		1		3000
+ HDD/SSD		1		6000
+ RAM		1		2500
+ Laptop Chargers		1		500
+ TV		1		12000
+ Fans		1		1200
+ Tubelight		1		250
+ Cables		3		360
+ Switches		1		100
+ Routers		1		1500
+ Earphones		1		900
+ Pendrive		4		2400
+--------------------------------------
+ Computer Parts Tax			   Rs. 120.0
+ Electronics Tax			   Rs. 269.0
+ Periherals Tax			   Rs. 105.2
+
+--------------------------------------
+ TOTAL BILL w/ Taxes : 		  Rs. 31204.2
+--------------------------------------

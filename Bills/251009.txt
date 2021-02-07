@@ -1,0 +1,26 @@
+  Computer Electronics Retail System
+
+ Bill Number   : 251009
+ Customer Name : qwerty
+ Phone Number  : 9987654321
+======================================
+ PRODUCTS		QTY		PRICE
+======================================
+ Monitor		1		3000
+ HDD/SSD		1		6000
+ RAM		1		2500
+ Laptop Chargers		1		500
+ Keyboard / Mouse		1		300
+ Antivirus		1		1450
+ Cables		3		360
+ Switches		1		100
+ Routers		1		1500
+ Earphones		1		900
+ Pendrive		3		1800
+--------------------------------------
+ Computer Parts Tax			   Rs. 137.5
+ Periherals Tax			   Rs. 93.2
+
+--------------------------------------
+ TOTAL BILL w/ Taxes : 		  Rs. 18640.7
+--------------------------------------
